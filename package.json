@@ -1,6 +1,6 @@
 {
   "name": "passport-mailapp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mail.ru authentication strategy for Passport.",
   "author": {
     "name": "Ilya Maltsev",
