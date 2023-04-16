@@ -1,0 +1,41 @@
+{
+  "name": "passport-mail",
+  "version": "0.0.1",
+  "description": "Mail.ru authentication strategy for Passport.",
+  "author": {
+    "name": "Ilya Maltsev",
+    "email": "maidnmw@ya.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maidnmw/passport-mailapp.git"
+  },
+  "bugs": {
+    "url": "http://github.com/maidnmw/passport-mailapp/issues"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "pkginfo": "0.3.x",
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "passport",
+    "passport mailru",
+    "mail",
+    "mailru",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ]
+}
